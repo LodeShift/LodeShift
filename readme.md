@@ -1,4 +1,4 @@
-I'm Aggie (A.K.A LodeShift) I'm gonna tell you some information about what i do. 👋🏼
+Random Dude, from the internet 🖱
 ---
 
 # About me
