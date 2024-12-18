@@ -9,4 +9,4 @@ Random Dude, from the internet 🖱
 ⌨️- HTML5 Developer using VSCode & Replit
 
 # Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,replit, github, vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,replit,github,vscode)](https://skillicons.dev)
